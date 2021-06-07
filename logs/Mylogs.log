@@ -1,0 +1,55 @@
+[INFO ] 2021-06-02 12:32:33.374 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:33.379 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 Start TC1_Validating - Merchant Listing       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:33.379 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:33.380 [main] log4j - Properties file loading
+[INFO ] 2021-06-02 12:32:33.381 [main] log4j - Setting Query params in Request Header
+[INFO ] 2021-06-02 12:32:33.382 [main] log4j - Setting Headers in Request Header
+[INFO ] 2021-06-02 12:32:33.382 [main] log4j - Getting Response after calling the http get request
+[INFO ] 2021-06-02 12:32:36.552 [main] log4j - Parsing the Response - Fetching Total Number of Merchants and Collection Name From Response
+[INFO ] 2021-06-02 12:32:37.837 [main] log4j - Parsing the Response - Geeting mids from response and Storing in a HashSet
+[INFO ] 2021-06-02 12:32:38.063 [main] log4j - Validating the Response - Able to fetch the expected mid or not
+[INFO ] 2021-06-02 12:32:38.064 [main] log4j - Validating and printing the status code of get request
+[INFO ] 2021-06-02 12:32:38.069 [main] log4j - Printing the Response data
+[INFO ] 2021-06-02 12:32:38.072 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:38.072 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                  End Of TC1_Validating - Merchant Listing       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:38.073 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:38.100 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:38.100 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 Start TC2_Validating - Location Listing       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:38.100 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:38.101 [main] log4j - Load properties file first
+[INFO ] 2021-06-02 12:32:38.101 [main] log4j - Setting query params in request body
+[INFO ] 2021-06-02 12:32:38.101 [main] log4j - Setting headers in request body
+[INFO ] 2021-06-02 12:32:38.102 [main] log4j - Calling the http getMerchantListing method and getting response
+[INFO ] 2021-06-02 12:32:39.560 [main] log4j - Validating and printing the status code of get request
+[INFO ] 2021-06-02 12:32:39.560 [main] log4j - Parsing the Response - Fetching and printing totalmerchantcount and collection name from respinse
+[INFO ] 2021-06-02 12:32:39.636 [main] log4j - Printing the Response data
+[INFO ] 2021-06-02 12:32:39.637 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:39.637 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 End Of TC2_Validating - Location Listing       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:39.637 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:39.647 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:39.648 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 Start TC3_openMerchantDetail       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:39.648 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:39.648 [main] log4j - Load properties file first
+[INFO ] 2021-06-02 12:32:39.648 [main] log4j - Load/Read Json file for payload/body
+[INFO ] 2021-06-02 12:32:39.650 [main] log4j - Calling the http openMerchantDetail method and getting response
+[INFO ] 2021-06-02 12:32:40.364 [main] log4j - Validating and printing the status code of get request
+[INFO ] 2021-06-02 12:32:40.365 [main] log4j - Printing the Response data
+[INFO ] 2021-06-02 12:32:40.368 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:40.368 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 End Of TC3_openMerchantDetail       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:40.368 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:40.374 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:40.374 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 Start TC4_openMerchantDetailViaChaining       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:40.374 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:40.374 [main] log4j - Load properties file first
+[INFO ] 2021-06-02 12:32:40.375 [main] log4j - Calling the http getMerchantListing method and getting response for TC1
+[INFO ] 2021-06-02 12:32:40.375 [main] log4j - Properties file loading
+[INFO ] 2021-06-02 12:32:40.375 [main] log4j - Setting Query params in Request Header
+[INFO ] 2021-06-02 12:32:40.375 [main] log4j - Setting Headers in Request Header
+[INFO ] 2021-06-02 12:32:40.376 [main] log4j - Getting Response after calling the http get request
+[INFO ] 2021-06-02 12:32:40.737 [main] log4j - Parsing the Response - Fetching and printing the 0th position mid from response
+[INFO ] 2021-06-02 12:32:40.850 [main] log4j - Calling the http openMerchantDetail method and getting response
+[INFO ] 2021-06-02 12:32:41.354 [main] log4j - Validating and printing the status code of get request
+[INFO ] 2021-06-02 12:32:41.354 [main] log4j - Printing the Response data
+[INFO ] 2021-06-02 12:32:41.355 [main] log4j - ****************************************************************************************
+[INFO ] 2021-06-02 12:32:41.356 [main] log4j - $$$$$$$$$$$$$$$$$$$$$                 End Of TC4_openMerchantDetailViaChaining       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-06-02 12:32:41.356 [main] log4j - ****************************************************************************************
