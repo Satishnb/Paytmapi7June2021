@@ -23,12 +23,15 @@ public class JsonParsingUsingOrgJSON {
 		JSONObject ob1= new JSONObject(rs);
 		
 		// Pass the Object to 2nd child object notation
-		JSONObject ob2 = new JSONObject(ob1.get("mappedMerchants").toString());
+		JSONObject ob2 = ob1.getJSONObject("mappedMerchants");
+		// OR   JSONObject ob2 = new JSONObject(ob1.get("mappedMerchants").toString());
 				
         // now pass the object to child JSONArray
-		JSONArray jsonarray= new JSONArray(ob2.get("merchants").toString());
-		//If we have multi object notations in Array notation then use the loop
-				
+		JSONArray jsonarray= ob2.getJSONArray("merchants");
+		// OR   JSONArray jsonarray= new JSONArray(ob2.get("merchants").toString());
+		
+		
+		//If we have multi object notations in Array notation then use the loop		
 		System.out.println();
 		int length= jsonarray.length();
 		System.out.println("Below are the mids: ");

@@ -12,6 +12,8 @@ import io.restassured.response.Response;
 
 public class MerchantListingResponse {
 	
+	      // **************This code is not using right now***************
+	
 	public static Response listingResponse() throws IOException {
 		log4j.info("Properties file loading");
 		Properties pr= PropertiesFileHandling.ReadProperties("../paytm_api/URI.properties");
@@ -19,7 +21,7 @@ public class MerchantListingResponse {
 		HTTPMethods http = new HTTPMethods(pr);
 		
 		log4j.info("Setting Query params in Request Header");
-		Map<String, String> params = new HashMap<String,String>();
+		Map<String, Object> params = new HashMap<String,Object>();
 		params.put("count","50");                                  
         params.put("vertical","LOCAL");                               
         params.put("collectionPermalink","live-on-ordering");
@@ -29,12 +31,11 @@ public class MerchantListingResponse {
         params.put("sortBy","NEAR_ME");
         params.put("rewardsPayMerchantsOnly","true");
         
-		log4j.info("Setting Headers in Request Header");
-    	Map<String, String> headers = new HashMap<String,String>();
-    	headers.put("Connection", "keep-alive");
+        log4j.info("Setting Headers in Request Header using external excel file");
+		Map<String, Object> headers = ExcelDataProvider.testdata("../paytm_api/excel/test1.xlsx", "Headers");
     	
 		log4j.info("Getting Response after calling the http get request");
-        Response rs= http.getMerchantListing("Merchant_Listing_1",params,headers);
+        Response rs= http.getRequest("Merchant_Listing_1",params,headers);
         return rs;
 	
 			} 

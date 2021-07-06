@@ -3,11 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.testing.TestScripts.TC100_openMerchantDetailTest">
+      <class name="org.testing.TestScripts.TC5_RewardsStorefront">
         <methods>
-          <include name="merchantDetail"/>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="RewardSF"/>
         </methods>
-      </class> <!-- org.testing.TestScripts.TC100_openMerchantDetailTest -->
+      </class> <!-- org.testing.TestScripts.TC5_RewardsStorefront -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,455 @@
+{
+  "merchantId": 1075334,
+  "name": "rewardspaymerchant1",
+  "favCount": null,
+  "isFav": false,
+  "isOfferRequested": false,
+  "moreLocationsCount": 0,
+  "socialMediaLinks": [],
+  "isNSM": false,
+  "catInfo": {
+    "categoryIds": [
+      "FNB"
+    ],
+    "primaryId": "FNB",
+    "cuisines": "",
+    "establishments": [],
+    "moreInfo": {},
+    "loveToHave": [],
+    "awards": []
+  },
+  "images": [
+    "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png"
+  ],
+  "merchantTimingToday": {
+    "merchantNextAvailableTiming": {
+      "isOpenNow": true,
+      "todayTimeSlotsStr": "9:30 AM - 10 PM",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM"
+    }
+  },
+  "reservationNumbers": [],
+  "redemptionAddress": {
+    "displayText": "Central Plaza, Vipul Plaza, Suncity, Gurgaon",
+    "shortDisplayText": "Central Plaza, Suncity",
+    "addressLine1": "Vipul Plaza",
+    "state": {
+      "id": 7,
+      "name": "Haryana",
+      "permalink": "haryana"
+    },
+    "city": {
+      "id": 10902,
+      "name": "Gurgaon",
+      "permalink": "gurgaon"
+    },
+    "locality": {
+      "id": 1017519,
+      "name": "Suncity",
+      "permalink": "suncity-gurgaon"
+    },
+    "subLocality": {},
+    "pincode": "122011",
+    "coordinates": {
+      "latitude": 28.4349,
+      "longitude": 77.106194
+    },
+    "additionalPolygons": [
+      {
+        "locationId": 100078,
+        "name": "Central Plaza",
+        "idNameForAgg": "100078|Central Plaza",
+        "aliases": null,
+        "permalink": "central-plaza-gurgaon",
+        "images": null,
+        "isPopular": null,
+        "isHotspot": false,
+        "centroid": {
+          "coordinates": [
+            77.10102408193052,
+            28.44280664632999
+          ],
+          "type": "Point"
+        },
+        "locality": "Golf Course Road",
+        "polygonId": 10902,
+        "city": "Gurgaon",
+        "type": 1,
+        "description": null,
+        "stateName": null,
+        "cityName": null,
+        "localityName": null,
+        "subLocalityName": null
+      },
+      {
+        "locationId": 101734,
+        "name": "Suncity",
+        "idNameForAgg": "101734|Suncity",
+        "aliases": null,
+        "permalink": "vipul-plaza-suncity-gurgaon",
+        "images": null,
+        "isPopular": null,
+        "isHotspot": true,
+        "centroid": {
+          "coordinates": [
+            77.10684012830802,
+            28.434869458371736
+          ],
+          "type": "Point"
+        },
+        "locality": "Suncity",
+        "polygonId": 1017519,
+        "city": "Gurgaon",
+        "type": 2,
+        "description": null,
+        "stateName": null,
+        "cityName": null,
+        "localityName": null,
+        "subLocalityName": null
+      }
+    ],
+    "mallMarketAddress": "Central Plaza, Suncity, Gurgaon",
+    "moreOutletsText": "Outlets similar to rewardspaymerchant1"
+  },
+  "timings": [
+    {
+      "displayName": "Monday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": false,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    },
+    {
+      "displayName": "Tuesday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": false,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    },
+    {
+      "displayName": "Wednesday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": false,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    },
+    {
+      "displayName": "Thursday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": false,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    },
+    {
+      "displayName": "Friday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": true,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    },
+    {
+      "displayName": "Saturday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": false,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    },
+    {
+      "displayName": "Sunday",
+      "startTimeStr": "9:30 AM",
+      "endTimeStr": "10 PM",
+      "isToday": false,
+      "timeSlots": [
+        "9:30 AM - 10 PM"
+      ],
+      "timeSlotsStr": "9:30 AM - 10 PM"
+    }
+  ],
+  "vertical": "LOCAL",
+  "dealAndCollectionIds": {
+    "dealIdsStr": "",
+    "collectionIdsStr": "CL0000000062,CL0000000107,CL0000000002,CL0000000005,CL0000000106,CL0000000082,CL0000000108"
+  },
+  "permalink": "rewardspaymerchant1-gurgaon",
+  "gaData": {
+    "primaryCategoryId": "FNB",
+    "primaryCategoryIdName": "Food & Beverages"
+  },
+  "nbUrl": "paytmstores-customermweb-h5.paytmdgt.io",
+  "merchantPaymentType": "prepaid",
+  "companyLogoUrl": "",
+  "isChainMerchant": false,
+  "shareUrlList": [
+    {
+      "type": "facebook",
+      "imageUrl": "nb-social-icon--facebook",
+      "shareUrl": "https://www.facebook.com/sharer.php?u=paytmstores-customermweb-h5.paytmdgt.io/d/undefined/rewardspaymerchant1-gurgaon?merchantId=1075334&contextCat=FNB"
+    },
+    {
+      "type": "twitter",
+      "imageUrl": "nb-social-icon--twitter",
+      "shareUrl": "http://twitter.com/share?text=Hey,%20check%20out%20rewardspaymerchant1%20Central%20Plaza,%20Vipul%20Plaza,%20Suncity,%20Gurgaon%20on%20Paytm%20Nearby%20stores&url=paytmstores-customermweb-h5.paytmdgt.io/d/undefined/rewardspaymerchant1-gurgaon?merchantId=1075334&contextCat=FNB"
+    },
+    {
+      "type": "mail",
+      "imageUrl": "nb-social-icon--mail",
+      "shareUrl": "mailto:?subject=Check%20out%20rewardspaymerchant1%20Central%20Plaza%2C%20Vipul%20Plaza%2C%20Suncity%2C%20Gurgaon%20on%20Paytm%20Nearby%20stores&body=Hey%2C%20check%20out%20rewardspaymerchant1%20Central%20Plaza%2C%20Vipul%20Plaza%2C%20Suncity%2C%20Gurgaon%20on%20Paytm%20Nearby%20stores%0A%0Apaytmstores-customermweb-h5.paytmdgt.io%2Fd%2Fundefined%2Frewardspaymerchant1-gurgaon%3FmerchantId%3D1075334%26contextCat%3DFNB"
+    },
+    {
+      "type": "whatsapp",
+      "imageUrl": "nb-social-icon--whatsapp",
+      "shareUrl": "whatsapp://send?text= Hey, check this out on Paytm Nearby stores paytmstores-customermweb-h5.paytmdgt.io/d/undefined/rewardspaymerchant1-gurgaon?merchantId=1075334&contextCat=FNB"
+    },
+    {
+      "type": "message",
+      "imageUrl": "nb-social-icon--sms",
+      "shareUrl": "sms:?&body=Hey, check this out on Paytm Nearby stores paytmstores-customermweb-h5.paytmdgt.io/d/undefined/rewardspaymerchant1-gurgaon?merchantId=1075334&contextCat=FNB"
+    }
+  ],
+  "copyUrlLink": "paytmstores-customermweb-h5.paytmdgt.io/d/undefined/rewardspaymerchant1-gurgaon?merchantId=1075334&contextCat=FNB",
+  "shareAppData": {
+    "title": "",
+    "subject": "Check out rewardspaymerchant1 Central Plaza, Vipul Plaza, Suncity, Gurgaon on Paytm Nearby stores",
+    "text": "Hey, check out rewardspaymerchant1 Central Plaza, Vipul Plaza, Suncity, Gurgaon on Paytm Nearby stores\n \npaytmstores-customermweb-h5.paytmdgt.io/d/undefined/rewardspaymerchant1-gurgaon?merchantId=1075334&contextCat=FNB"
+  },
+  "avgCostData": [],
+  "dealMolTitle": "",
+  "merchantEvents": [],
+  "hygieneInfoBanner": [],
+  "hygieneInfo": [
+    {
+      "category": "FNB",
+      "header": "Hygiene Measures",
+      "buckets": [
+        {
+          "key": "100000",
+          "title": "Customer Safety Measures",
+          "subBucket": [
+            {
+              "key": "100022",
+              "text": "Health & Travel Declaration of each visitor"
+            },
+            {
+              "key": "100023",
+              "text": "Zero Direct Contact between Staff and customers"
+            },
+            {
+              "key": "100101",
+              "text": "Maximum 10 Guest allowed in One group"
+            },
+            {
+              "key": "100103",
+              "text": "Guest above 65 years of age are not permitted"
+            },
+            {
+              "key": "100019",
+              "text": "Daily Sanitization of the outlet"
+            },
+            {
+              "key": "100024",
+              "text": "Menu Portions modified to Serve 1 Person"
+            },
+            {
+              "key": "100018",
+              "text": "Mandatory temperature checks at entry"
+            },
+            {
+              "key": "100021",
+              "text": "Mandatory Mask for Everyone"
+            },
+            {
+              "key": "100020",
+              "text": "Aarogya Setu Status Check"
+            },
+            {
+              "key": "100102",
+              "text": "Children Below 10 Years of age are not permitted"
+            }
+          ],
+          "isExpanded": true
+        },
+        {
+          "key": "100004",
+          "title": "Staff Safety Measures",
+          "subBucket": [
+            {
+              "key": "100025",
+              "text": "Daily Temperature check"
+            },
+            {
+              "key": "100027",
+              "text": "WHO based Hygiene Training to Staff"
+            },
+            {
+              "key": "100026",
+              "text": "Aarogya Setu Status Check Staff"
+            },
+            {
+              "key": "100028",
+              "text": "20 Sec Hand Wash every hour"
+            },
+            {
+              "key": "100029",
+              "text": "Masks/Gloves worn by every staff"
+            },
+            {
+              "key": "100030",
+              "text": "Seperate area / staff for cleaning used plates / crockery"
+            }
+          ],
+          "isExpanded": true
+        },
+        {
+          "key": "100010",
+          "title": "Outlet Hygiene Measures",
+          "subBucket": [
+            {
+              "key": "100058",
+              "text": "Modified seating plan to ensure social distancing"
+            },
+            {
+              "key": "100061",
+              "text": "Sanitization of tables each time customer leaves"
+            },
+            {
+              "key": "100062",
+              "text": "Outlet has air purifiers"
+            },
+            {
+              "key": "100063",
+              "text": "Air conditioning regulated between 24 - 30°C"
+            },
+            {
+              "key": "100066",
+              "text": "Disposable Crockery / Sanitized Silverware"
+            },
+            {
+              "key": "100055",
+              "text": "Daily Sanitization of the outlet"
+            },
+            {
+              "key": "100056",
+              "text": "Cleaning/wiping of high touch areas like doorknobs at regular intervals"
+            },
+            {
+              "key": "100057",
+              "text": "Maximum of 5 customers are allowed at a point in time at the outlet "
+            },
+            {
+              "key": "100059",
+              "text": "Maximum of 12 staff member are allowed at a point in time at the outlet"
+            },
+            {
+              "key": "100060",
+              "text": "Availability of payments via Mobile apps"
+            },
+            {
+              "key": "100065",
+              "text": "Group Entry Restrictions"
+            },
+            {
+              "key": "100104",
+              "text": "Deep Cleaning of all washrooms at regular intervals"
+            },
+            {
+              "key": "100064",
+              "text": "Reservations only admissions to avoid queuing"
+            },
+            {
+              "key": "100067",
+              "text": "Sanitization of Raw Materials"
+            }
+          ],
+          "isExpanded": true
+        }
+      ]
+    }
+  ],
+  "externalPlatformDetails": {
+    "paytmChannelId": "70478",
+    "paytmKybId": "A0q2eknsapjt486",
+    "paytmWarehouseId": "1027804",
+    "paytmShopId": 70478,
+    "paytmShopFssaiId": null,
+    "paytmMerchantId": "63795699",
+    "paytmMiniAppId": null,
+    "paytmShopType": null,
+    "channelId": "70478",
+    "orderingEnabled": null,
+    "chatEnabled": null,
+    "externalplatform": "MY_STORE",
+    "orderingDeeplink": null,
+    "rewardsPayEnabled": null,
+    "rewardsPayDeeplink": null,
+    "foodWalletEnabled": null,
+    "orderingDiscoverable": false,
+    "isAcceptingOrders": null,
+    "dineIn": null,
+    "pickUp": null,
+    "delivery": null,
+    "rewardsPayDiscoverable": true
+  },
+  "mols": [
+    {
+      "type": "REWARDS_PAY",
+      "noOfDeals": 0,
+      "correspondingDealIds": [],
+      "LINK": "",
+      "gaPageLabel": "REWARDS_PAY",
+      "tagText": "",
+      "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=70478",
+      "status": "ACTIVE",
+      "date": null,
+      "discountPercent": 0,
+      "title": "Pay Bill",
+      "icon": "/client/static/images/icons/pay-bill-icon.png",
+      "subTitle": null,
+      "promoDetails": [
+        {
+          "text": "Paytm Discount of 20%",
+          "discountPercentage": 20,
+          "redemptionType": "discount",
+          "validity": {
+            "startDate": 1614917100000,
+            "endDate": 1638331500000
+          },
+          "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+        }
+      ],
+      "buttonCta": null,
+      "pricing": null,
+      "discountPercentStr": null
+    }
+  ],
+  "feeds": [],
+  "ratingInfo": {
+    "avgRating": "3.5",
+    "count": 4
+  },
+  "userRating": {},
+  "isFollowing": null,
+  "reviewsData": {
+    "reviews": [],
+    "count": 0
+  },
+  "showMOLSBtnCTA": false
+}

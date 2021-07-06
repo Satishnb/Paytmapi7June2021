@@ -1,0 +1,41 @@
+[
+{
+		"suggestion": "snm paytm warehouse, Connaught Place",
+		"outletName": "snm paytm warehouse",
+		"path": "",
+		"searchType": "outlet",
+		"shopId": "73764",
+		"displayAddress": "Connaught Place, New Delhi",
+		"discountPerc": 20,
+		"merchantId": "1075407",
+		"permalink": "snm-paytm-warehouse",
+		"isOnline": false,
+		"dispText": "snm paytm warehouse, Connaught Place"
+	},
+	{
+		"suggestion": "paytm bns warehouse, DLF City Phase 5",
+		"outletName": "paytm bns warehouse",
+		"path": "",
+		"searchType": "outlet",
+		"shopId": "73940",
+		"displayAddress": "DLF City Phase 5, Gurgaon",
+		"discountPerc": 20,
+		"merchantId": "1075408",
+		"permalink": "paytm-bns-warehouse",
+		"isOnline": false,
+		"dispText": "paytm bns warehouse, DLF City Phase 5"
+	},
+	{
+		"suggestion": "PAYTM WAREHOUSE SPA MERCHANT, Sector 56",
+		"outletName": "PAYTM WAREHOUSE SPA MERCHANT",
+		"path": "",
+		"searchType": "outlet",
+		"shopId": "74536",
+		"displayAddress": "Sector 56, Gurgaon",
+		"discountPerc": 20,
+		"merchantId": "1075421",
+		"permalink": "paytm-warehouse-spa-merchant-gurgaon",
+		"isOnline": false,
+		"dispText": "PAYTM WAREHOUSE SPA MERCHANT, Sector 56"
+	}
+	]

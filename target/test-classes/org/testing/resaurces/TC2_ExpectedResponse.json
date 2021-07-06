@@ -1,0 +1,229 @@
+{
+    "howItWorksText": "",
+    "mappedMerchants": {
+        "collectionTitle": "",
+        "locationTitle": "Suncity",
+        "merchants": [
+            {
+                "boughtText": "",
+                "catInfo": {
+                    "primaryId": "FNB"
+                },
+                "companyLogoUrl": "",
+                "coordinates": {
+                    "latitude": 28.4349,
+                    "longitude": 77.106194
+                },
+                "costForTwo": null,
+                "distanceFromUser": null,
+                "externalPlatformDetails": {
+                    "paytmChannelId": "70478",
+                    "paytmKybId": "A0q2eknsapjt486",
+                    "paytmMerchantId": "63795699",
+                    "paytmMiniAppId": null,
+                    "paytmShopFssaiId": null,
+                    "paytmShopId": 70478,
+                    "paytmShopType": null,
+                    "paytmWarehouseId": "1027804"
+                },
+                "gaPrimaryCat": "FNB",
+                "gaSecondaryCats": null,
+                "iconUrl": {
+                    "pointed": "/client/static/images/icons/map-icon/restaurant-flag.svg",
+                    "rounded": "/client/static/images/icons/map-icon/restaurant-tt.svg"
+                },
+                "imageUrl": "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+                "isChainMerchant": false,
+                "isFav": null,
+                "isFeatured": false,
+                "locations": [
+                    {
+                        "distance": null,
+                        "info": "Central Plaza, Suncity, Gurgaon",
+                        "lat": 28.4349,
+                        "lng": 77.106194
+                    }
+                ],
+                "merchantCity": "Gurgaon",
+                "merchantId": 1075334,
+                "merchantLocation": "Central Plaza, Suncity, Gurgaon",
+                "merchantName": "rewardspaymerchant1",
+                "merchantPaymentType": "prepaid",
+                "merchantPermalink": "rewardspaymerchant1-gurgaon",
+                "merchantPermalink2": "",
+                "mols": [
+                    {
+                        "buttonCta": "Pay Bill",
+                        "correspondingDealIds": [
+                        ],
+                        "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=70478",
+                        "date": null,
+                        "discountPercent": 0,
+                        "discountPercentStr": null,
+                        "gaPageLabel": "REWARDS_PAY",
+                        "icon": "/client/static/images/icons/pay-bill-icon.png",
+                        "LINK": "",
+                        "noOfDeals": 0,
+                        "pricing": null,
+                        "promoDetails": [
+                            {
+                                "discountPercentage": 20,
+                                "redemptionType": "discount",
+                                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1",
+                                "text": "Paytm Discount of 20%",
+                                "validity": {
+                                    "endDate": 1638331500000,
+                                    "startDate": 1614917100000
+                                }
+                            }
+                        ],
+                        "status": "ACTIVE",
+                        "subTitle": null,
+                        "tagText": "",
+                        "title": "Pay Bill ",
+                        "type": "REWARDS_PAY"
+                    }
+                ],
+                "nextAvailableTimings": {
+                    "endTimeStr": "10 PM",
+                    "isOpenNow": true,
+                    "startTimeStr": "9:30 AM",
+                    "todayTimeSlotsStr": "9:30 AM - 10 PM"
+                },
+                "openCloseTiming": {
+                    "isOpen": true,
+                    "isOpenAllDay": false,
+                    "timeStr": "10 PM"
+                },
+                "paytmShopType": null,
+                "primaryOfferingDetail": [
+                ],
+                "ratingDetails": null,
+                "reservationNumbers": [
+                ],
+                "servicesTags": [
+                ],
+                "userLocation": {
+                }
+            },
+            {
+                "boughtText": "",
+                "catInfo": {
+                    "primaryId": "BNS"
+                },
+                "companyLogoUrl": "",
+                "coordinates": {
+                    "latitude": 28.448883,
+                    "longitude": 77.10041999
+                },
+                "costForTwo": null,
+                "distanceFromUser": null,
+                "externalPlatformDetails": {
+                    "paytmChannelId": "73940",
+                    "paytmKybId": "A036rixawbs466",
+                    "paytmMerchantId": "63795704",
+                    "paytmMiniAppId": null,
+                    "paytmShopFssaiId": null,
+                    "paytmShopId": 73940,
+                    "paytmShopType": null,
+                    "paytmWarehouseId": "1027875"
+                },
+                "gaPrimaryCat": "BNS",
+                "gaSecondaryCats": null,
+                "iconUrl": {
+                    "pointed": "/client/static/images/icons/map-icon/salon-flag.svg",
+                    "rounded": "/client/static/images/icons/map-icon/salon-tt.svg"
+                },
+                "imageUrl": "https://images-stag.nbstatic.in/mystore/tr:w-500/5ff9703e590801000b94394a.jpg",
+                "isChainMerchant": false,
+                "isFav": null,
+                "isFeatured": false,
+                "locations": [
+                    {
+                        "distance": null,
+                        "info": "Ambience Mall, Suncity, DLF City Phase 5, Gurgaon",
+                        "lat": 28.448883,
+                        "lng": 77.10041999
+                    }
+                ],
+                "merchantCity": "Gurgaon",
+                "merchantId": 1075408,
+                "merchantLocation": "Ambience Mall, Suncity, DLF City Phase 5, Gurgaon",
+                "merchantName": "paytm bns warehouse",
+                "merchantPaymentType": "prepaid",
+                "merchantPermalink": "paytm-bns-warehouse",
+                "merchantPermalink2": "",
+                "mols": [
+                    {
+                        "buttonCta": "Pay Bill",
+                        "correspondingDealIds": [
+                        ],
+                        "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=73940",
+                        "date": null,
+                        "discountPercent": 0,
+                        "discountPercentStr": null,
+                        "gaPageLabel": "REWARDS_PAY",
+                        "icon": "/client/static/images/icons/pay-bill-icon.png",
+                        "LINK": "",
+                        "noOfDeals": 0,
+                        "pricing": null,
+                        "promoDetails": [
+                            {
+                                "discountPercentage": 20,
+                                "redemptionType": "discount",
+                                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1",
+                                "text": "Paytm Discount of 20%",
+                                "validity": {
+                                    "endDate": 1638331500000,
+                                    "startDate": 1614917100000
+                                }
+                            }
+                        ],
+                        "status": "ACTIVE",
+                        "subTitle": null,
+                        "tagText": "",
+                        "title": "Pay Bill ",
+                        "type": "REWARDS_PAY"
+                    }
+                ],
+                "nextAvailableTimings": {
+                    "endTimeStr": "10 PM",
+                    "isOpenNow": true,
+                    "startTimeStr": "9:30 AM",
+                    "todayTimeSlotsStr": "9:30 AM - 10 PM"
+                },
+                "openCloseTiming": {
+                    "isOpen": true,
+                    "isOpenAllDay": false,
+                    "timeStr": "10 PM"
+                },
+                "paytmShopType": null,
+                "primaryOfferingDetail": [
+                    [
+                        {
+                            "fontWeightBold": true,
+                            "isNbPay": false,
+                            "isRecommendedPricingStr": false,
+                            "styleClass": "",
+                            "text": "Services - "
+                        },
+                        {
+                            "isNbPay": false,
+                            "isRecommendedPricingStr": false,
+                            "styleClass": "",
+                            "text": "De-Tan"
+                        }
+                    ]
+                ],
+                "ratingDetails": null,
+                "reservationNumbers": [
+                ],
+                "servicesTags": [
+                ],
+                "userLocation": {
+                }
+            }
+        ],
+        "offersTotalCount": 2
+    }
+}

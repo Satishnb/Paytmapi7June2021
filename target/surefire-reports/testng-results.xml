@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="16" total="24" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39344" started-at="2021-06-22T12:22:47 IST" finished-at="2021-06-22T12:23:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39344" started-at="2021-06-22T12:22:47 IST" finished-at="2021-06-22T12:23:27 IST">
+      <class name="org.testing.TestScripts.TC7_ChangeLocation">
+        <test-method status="PASS" signature="searchOutlet()[pri:0, instance:org.testing.TestScripts.TC7_ChangeLocation@731a74c]" name="searchOutlet" duration-ms="967" started-at="2021-06-22T12:23:24 IST" finished-at="2021-06-22T12:23:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOutlet -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC7_ChangeLocation@731a74c]" name="getResult" is-config="true" duration-ms="1" started-at="2021-06-22T12:23:25 IST" finished-at="2021-06-22T12:23:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchOutlet status=SUCCESS method=TC7_ChangeLocation.searchOutlet()[pri:0, instance:org.testing.TestScripts.TC7_ChangeLocation@731a74c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC7_ChangeLocation@731a74c]" name="tearDown" is-config="true" duration-ms="193" started-at="2021-06-22T12:23:25 IST" finished-at="2021-06-22T12:23:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC7_ChangeLocation -->
+      <class name="org.testing.TestScripts.TC3_openMerchantDetail">
+        <test-method status="PASS" signature="merchantDetail()[pri:0, instance:org.testing.TestScripts.TC3_openMerchantDetail@57536d79]" name="merchantDetail" duration-ms="1244" started-at="2021-06-22T12:23:13 IST" finished-at="2021-06-22T12:23:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- merchantDetail -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC3_openMerchantDetail@57536d79]" name="getResult" is-config="true" duration-ms="3" started-at="2021-06-22T12:23:15 IST" finished-at="2021-06-22T12:23:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=merchantDetail status=SUCCESS method=TC3_openMerchantDetail.merchantDetail()[pri:0, instance:org.testing.TestScripts.TC3_openMerchantDetail@57536d79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC3_openMerchantDetail@57536d79]" name="tearDown" is-config="true" duration-ms="547" started-at="2021-06-22T12:23:15 IST" finished-at="2021-06-22T12:23:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC3_openMerchantDetail -->
+      <class name="org.testing.TestScripts.TC1_MerchantListingAllRecords">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.testing.TestScripts.TC1_MerchantListingAllRecords@6f1fba17]" name="setup" is-config="true" duration-ms="688" started-at="2021-06-22T12:22:47 IST" finished-at="2021-06-22T12:22:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="merchantlisting()[pri:0, instance:org.testing.TestScripts.TC1_MerchantListingAllRecords@6f1fba17]" name="merchantlisting" duration-ms="21273" started-at="2021-06-22T12:22:47 IST" finished-at="2021-06-22T12:23:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- merchantlisting -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC1_MerchantListingAllRecords@6f1fba17]" name="getResult" is-config="true" duration-ms="65" started-at="2021-06-22T12:23:09 IST" finished-at="2021-06-22T12:23:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=merchantlisting status=SUCCESS method=TC1_MerchantListingAllRecords.merchantlisting()[pri:0, instance:org.testing.TestScripts.TC1_MerchantListingAllRecords@6f1fba17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC1_MerchantListingAllRecords@6f1fba17]" name="tearDown" is-config="true" duration-ms="1597" started-at="2021-06-22T12:23:09 IST" finished-at="2021-06-22T12:23:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC1_MerchantListingAllRecords@6f1fba17]" name="tearDown" is-config="true" duration-ms="220" started-at="2021-06-22T12:23:27 IST" finished-at="2021-06-22T12:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC1_MerchantListingAllRecords -->
+      <class name="org.testing.TestScripts.TC6_OutletSearch">
+        <test-method status="PASS" signature="searchOutlet()[pri:0, instance:org.testing.TestScripts.TC6_OutletSearch@4b4523f8]" name="searchOutlet" duration-ms="1681" started-at="2021-06-22T12:23:22 IST" finished-at="2021-06-22T12:23:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOutlet -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC6_OutletSearch@4b4523f8]" name="getResult" is-config="true" duration-ms="2" started-at="2021-06-22T12:23:24 IST" finished-at="2021-06-22T12:23:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchOutlet status=SUCCESS method=TC6_OutletSearch.searchOutlet()[pri:0, instance:org.testing.TestScripts.TC6_OutletSearch@4b4523f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC6_OutletSearch@4b4523f8]" name="tearDown" is-config="true" duration-ms="211" started-at="2021-06-22T12:23:24 IST" finished-at="2021-06-22T12:23:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC6_OutletSearch -->
+      <class name="org.testing.TestScripts.TC4_openMerchantDetailViaChaining">
+        <test-method status="PASS" signature="merchantDetailvialisting()[pri:0, instance:org.testing.TestScripts.TC4_openMerchantDetailViaChaining@3b0143d3]" name="merchantDetailvialisting" duration-ms="3031" started-at="2021-06-22T12:23:15 IST" finished-at="2021-06-22T12:23:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- merchantDetailvialisting -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC4_openMerchantDetailViaChaining@3b0143d3]" name="getResult" is-config="true" duration-ms="2" started-at="2021-06-22T12:23:18 IST" finished-at="2021-06-22T12:23:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=merchantDetailvialisting status=SUCCESS method=TC4_openMerchantDetailViaChaining.merchantDetailvialisting()[pri:0, instance:org.testing.TestScripts.TC4_openMerchantDetailViaChaining@3b0143d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC4_openMerchantDetailViaChaining@3b0143d3]" name="tearDown" is-config="true" duration-ms="289" started-at="2021-06-22T12:23:18 IST" finished-at="2021-06-22T12:23:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC4_openMerchantDetailViaChaining -->
+      <class name="org.testing.TestScripts.TC5_RewardsStorefront">
+        <test-method status="PASS" signature="RewardSF()[pri:0, instance:org.testing.TestScripts.TC5_RewardsStorefront@5a8e6209]" name="RewardSF" duration-ms="3680" started-at="2021-06-22T12:23:18 IST" finished-at="2021-06-22T12:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RewardSF -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC5_RewardsStorefront@5a8e6209]" name="getResult" is-config="true" duration-ms="2" started-at="2021-06-22T12:23:22 IST" finished-at="2021-06-22T12:23:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RewardSF status=SUCCESS method=TC5_RewardsStorefront.RewardSF()[pri:0, instance:org.testing.TestScripts.TC5_RewardsStorefront@5a8e6209] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC5_RewardsStorefront@5a8e6209]" name="tearDown" is-config="true" duration-ms="266" started-at="2021-06-22T12:23:22 IST" finished-at="2021-06-22T12:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC5_RewardsStorefront -->
+      <class name="org.testing.TestScripts.TC2_LocationListingAllRecords">
+        <test-method status="PASS" signature="loctionlisting()[pri:0, instance:org.testing.TestScripts.TC2_LocationListingAllRecords@6ddf90b0]" name="loctionlisting" duration-ms="2444" started-at="2021-06-22T12:23:10 IST" finished-at="2021-06-22T12:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loctionlisting -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC2_LocationListingAllRecords@6ddf90b0]" name="getResult" is-config="true" duration-ms="1" started-at="2021-06-22T12:23:13 IST" finished-at="2021-06-22T12:23:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loctionlisting status=SUCCESS method=TC2_LocationListingAllRecords.loctionlisting()[pri:0, instance:org.testing.TestScripts.TC2_LocationListingAllRecords@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC2_LocationListingAllRecords@6ddf90b0]" name="tearDown" is-config="true" duration-ms="399" started-at="2021-06-22T12:23:13 IST" finished-at="2021-06-22T12:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC2_LocationListingAllRecords -->
+      <class name="org.testing.TestScripts.TC8_FilteredListing">
+        <test-method status="PASS" signature="defaultFilteredData()[pri:0, instance:org.testing.TestScripts.TC8_FilteredListing@1f28c152]" name="defaultFilteredData" duration-ms="742" started-at="2021-06-22T12:23:25 IST" finished-at="2021-06-22T12:23:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultFilteredData -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.testing.TestScripts.TC8_FilteredListing@1f28c152]" name="getResult" is-config="true" duration-ms="17" started-at="2021-06-22T12:23:26 IST" finished-at="2021-06-22T12:23:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=defaultFilteredData status=SUCCESS method=TC8_FilteredListing.defaultFilteredData()[pri:0, instance:org.testing.TestScripts.TC8_FilteredListing@1f28c152] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.testing.TestScripts.TC8_FilteredListing@1f28c152]" name="tearDown" is-config="true" duration-ms="403" started-at="2021-06-22T12:23:26 IST" finished-at="2021-06-22T12:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testing.TestScripts.TC8_FilteredListing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

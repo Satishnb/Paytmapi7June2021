@@ -1,0 +1,852 @@
+{
+  "mappedMerchants": {
+    "merchants": [
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/restaurant-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/restaurant-tt.svg"
+        },
+        "merchantId": 1075334,
+        "merchantName": "rewardspaymerchant1",
+        "imageUrl": "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+        "ratingDetails": null,
+        "merchantLocation": "Central Plaza, Suncity, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.4349,
+          "longitude": 77.106194
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=70478",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 20%",
+                "discountPercentage": 20,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614917100000,
+                  "endDate": 1638331500000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [],
+        "gaPrimaryCat": "FNB",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "rewardspaymerchant1-gurgaon",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "FNB"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "70478",
+          "paytmKybId": "A0q2eknsapjt486",
+          "paytmWarehouseId": "1027804",
+          "paytmShopId": 70478,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795699",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.4349,
+            "lng": 77.106194,
+            "info": "Central Plaza, Suncity, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/spa-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/spa-flag.svg"
+        },
+        "merchantId": 1075421,
+        "merchantName": "PAYTM WAREHOUSE SPA MERCHANT",
+        "imageUrl": "https://images-stag.nbstatic.in/5fc7b61b7b7dc6000b51aec8.png",
+        "ratingDetails": null,
+        "merchantLocation": "Sector 56, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.425875,
+          "longitude": 77.097618
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=74536",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 20%",
+                "discountPercentage": 20,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614917100000,
+                  "endDate": 1638331500000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [],
+        "gaPrimaryCat": "SNM",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "paytm-warehouse-spa-merchant-gurgaon",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "SNM"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "74536",
+          "paytmKybId": "A01ebrb5zowc565",
+          "paytmWarehouseId": "1027876",
+          "paytmShopId": 74536,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795705",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.425875,
+            "lng": 77.097618,
+            "info": "Sector 56, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/salon-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/salon-tt.svg"
+        },
+        "merchantId": 1075408,
+        "merchantName": "paytm bns warehouse",
+        "imageUrl": "https://images-stag.nbstatic.in/mystore/tr:w-500/5ff9703e590801000b94394a.jpg",
+        "ratingDetails": null,
+        "merchantLocation": "Ambience Mall, Suncity, DLF City Phase 5, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.448883,
+          "longitude": 77.10041999
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=73940",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 20%",
+                "discountPercentage": 20,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614917100000,
+                  "endDate": 1638331500000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [
+          [
+            {
+              "text": "Services - ",
+              "fontWeightBold": true,
+              "styleClass": "",
+              "isNbPay": false,
+              "isRecommendedPricingStr": false
+            },
+            {
+              "text": "De-Tan",
+              "styleClass": "",
+              "isNbPay": false,
+              "isRecommendedPricingStr": false
+            }
+          ]
+        ],
+        "gaPrimaryCat": "BNS",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "paytm-bns-warehouse",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "BNS"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "73940",
+          "paytmKybId": "A036rixawbs466",
+          "paytmWarehouseId": "1027875",
+          "paytmShopId": 73940,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795704",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.448883,
+            "lng": 77.10041999,
+            "info": "Ambience Mall, Suncity, DLF City Phase 5, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/spa-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/spa-flag.svg"
+        },
+        "merchantId": 1075555,
+        "merchantName": "4U SPA",
+        "imageUrl": "https://images-stag.nbstatic.in/5fc7b61b7b7dc6000b51aec8.png",
+        "ratingDetails": null,
+        "merchantLocation": "Sector 29, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.466906,
+          "longitude": 77.066292
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80242",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 5%",
+                "discountPercentage": 5,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1616569740000,
+                  "endDate": 1646032140000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY5/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [],
+        "gaPrimaryCat": "SNM",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "4u-spa-gurgaon",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "SNM"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "80242",
+          "paytmKybId": "A05bope4evx228",
+          "paytmWarehouseId": "1027971",
+          "paytmShopId": 80242,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795720",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.466906,
+            "lng": 77.066292,
+            "info": "Sector 29, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/restaurant-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/restaurant-tt.svg"
+        },
+        "merchantId": 1075551,
+        "merchantName": "test man",
+        "imageUrl": "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+        "ratingDetails": null,
+        "merchantLocation": "Sector 29, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.466906,
+          "longitude": 77.066292
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80238",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 20%",
+                "discountPercentage": 20,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614917100000,
+                  "endDate": 1638331500000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [],
+        "gaPrimaryCat": "FNB",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "test-man-gurgaon",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "FNB"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "80238",
+          "paytmKybId": "A053ki8cnvv050",
+          "paytmWarehouseId": "1027967",
+          "paytmShopId": 80238,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795716",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.466906,
+            "lng": 77.066292,
+            "info": "Sector 29, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/salon-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/salon-tt.svg"
+        },
+        "merchantId": 1075552,
+        "merchantName": "03 SALOON",
+        "imageUrl": "https://images-stag.nbstatic.in/5f8800ced06ffc000b8e4078.png",
+        "ratingDetails": null,
+        "merchantLocation": "Sector 29, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.466906,
+          "longitude": 77.066292
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80239",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 20%",
+                "discountPercentage": 20,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614917100000,
+                  "endDate": 1638331500000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [],
+        "gaPrimaryCat": "BNS",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "03-saloon-gurgaon",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "BNS"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "80239",
+          "paytmKybId": "A058qckavks149",
+          "paytmWarehouseId": "1027968",
+          "paytmShopId": 80239,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795717",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.466906,
+            "lng": 77.066292,
+            "info": "Sector 29, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/Featured-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/featured-tt.svg"
+        },
+        "merchantId": 1075553,
+        "merchantName": "PI'ZZA@FNB",
+        "imageUrl": "https://images-stag.nbstatic.in/mystore/tr:w-500/5ff9703e590801000b94394a.jpg",
+        "ratingDetails": null,
+        "merchantLocation": "Ambience Mall, Sector 29, Ambience Island, Gurgaon",
+        "merchantCity": "Gurgaon",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.50361,
+          "longitude": 77.0972
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80240",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 10%",
+                "discountPercentage": 10,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614148440000,
+                  "endDate": 1632983640000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY1/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [
+          [
+            {
+              "text": "Cuisines - ",
+              "fontWeightBold": true,
+              "styleClass": "",
+              "isNbPay": false,
+              "isRecommendedPricingStr": false
+            },
+            {
+              "text": "Bengali, Bihari, Pakistani, Parsi, Rajasthani, Russian, Singaporean, South American, Sri Lankan, Street food, Thai, Tibetan",
+              "styleClass": "",
+              "isNbPay": false,
+              "isRecommendedPricingStr": false
+            }
+          ]
+        ],
+        "gaPrimaryCat": "FNB",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "pizza-fnb-gurgaon",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "FNB"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": true,
+        "externalPlatformDetails": {
+          "paytmChannelId": "80240",
+          "paytmKybId": "A059w21e6ue258",
+          "paytmWarehouseId": "1027969",
+          "paytmShopId": 80240,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795718",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.50361,
+            "lng": 77.0972,
+            "info": "Ambience Mall, Sector 29, Ambience Island, Gurgaon",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": false,
+          "openAt": "7 PM",
+          "openOn": ""
+        },
+        "openCloseTiming": {
+          "isOpen": false,
+          "timeStr": "7 PM Today",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      },
+      {
+        "iconUrl": {
+          "pointed": "/client/static/images/icons/map-icon/spa-flag.svg",
+          "rounded": "/client/static/images/icons/map-icon/spa-flag.svg"
+        },
+        "merchantId": 1075407,
+        "merchantName": "snm paytm warehouse",
+        "imageUrl": "https://images-stag.nbstatic.in/mystore/tr:w-500/5ff9703e590801000b94394a.jpg",
+        "ratingDetails": null,
+        "merchantLocation": "Connaught Place, New Delhi",
+        "merchantCity": "New Delhi",
+        "distanceFromUser": null,
+        "coordinates": {
+          "latitude": 28.63041,
+          "longitude": 77.21772
+        },
+        "isFav": null,
+        "mols": [
+          {
+            "type": "REWARDS_PAY",
+            "noOfDeals": 0,
+            "correspondingDealIds": [],
+            "LINK": "",
+            "gaPageLabel": "REWARDS_PAY",
+            "tagText": "",
+            "customDeeplink": "https://staging.paytmstores.com/paybill?partner_id=73764",
+            "status": "ACTIVE",
+            "date": null,
+            "discountPercent": 0,
+            "title": "Pay Bill ",
+            "icon": "/client/static/images/icons/pay-bill-icon.png",
+            "subTitle": null,
+            "promoDetails": [
+              {
+                "text": "Paytm Discount of 20%",
+                "discountPercentage": 20,
+                "redemptionType": "discount",
+                "validity": {
+                  "startDate": 1614917100000,
+                  "endDate": 1638331500000
+                },
+                "termsUrl": "https://staging.paytm.com/papi/v1/promosearch/REWARDSPAY11/1/tnc?tenant=PAYTM&tenantId=1"
+              }
+            ],
+            "buttonCta": "Pay Bill",
+            "pricing": null,
+            "discountPercentStr": null
+          }
+        ],
+        "primaryOfferingDetail": [
+          [
+            {
+              "text": "Massages - ",
+              "fontWeightBold": true,
+              "styleClass": "",
+              "isNbPay": false,
+              "isRecommendedPricingStr": false
+            },
+            {
+              "text": "Potli, Wrap",
+              "styleClass": "",
+              "isNbPay": false,
+              "isRecommendedPricingStr": false
+            }
+          ]
+        ],
+        "gaPrimaryCat": "SNM",
+        "gaSecondaryCats": null,
+        "boughtText": "",
+        "merchantPermalink": "snm-paytm-warehouse",
+        "merchantPermalink2": "",
+        "catInfo": {
+          "primaryId": "SNM"
+        },
+        "merchantPaymentType": "prepaid",
+        "reservationNumbers": [],
+        "costForTwo": null,
+        "companyLogoUrl": "",
+        "isChainMerchant": false,
+        "isFeatured": false,
+        "externalPlatformDetails": {
+          "paytmChannelId": "73764",
+          "paytmKybId": "A0mk2my4c5288",
+          "paytmWarehouseId": "1027874",
+          "paytmShopId": 73764,
+          "paytmShopFssaiId": null,
+          "paytmMerchantId": "63795703",
+          "paytmMiniAppId": null,
+          "paytmShopType": null
+        },
+        "locations": [
+          {
+            "lat": 28.63041,
+            "lng": 77.21772,
+            "info": "Connaught Place, New Delhi",
+            "distance": null
+          }
+        ],
+        "userLocation": {},
+        "nextAvailableTimings": {
+          "isOpenNow": true,
+          "todayTimeSlotsStr": "9:30 AM - 10 PM",
+          "startTimeStr": "9:30 AM",
+          "endTimeStr": "10 PM"
+        },
+        "openCloseTiming": {
+          "isOpen": true,
+          "timeStr": "10 PM",
+          "isOpenAllDay": false
+        },
+        "paytmShopType": null,
+        "servicesTags": []
+      }
+    ],
+    "offersTotalCount": 8,
+    "collectionTitle": "Live on Ordering",
+    "locationTitle": ""
+  },
+  "howItWorksText": "",
+  "seoDataObj": {
+    "url": "https://www.nearbuy.com/<city-permalink>/chain/<chain-permalink>--<city-permalink>",
+    "title": "Test",
+    "desc": "Test",
+    "heading1": "Live on Ordering | 8 Outlets",
+    "breadcrumb": [
+      "Test",
+      "Test",
+      "Test"
+    ],
+    "facebook": {
+      "title": "Test",
+      "desc": "Test"
+    },
+    "twitter": {
+      "title": "Test",
+      "desc": "Test"
+    }
+  }
+}

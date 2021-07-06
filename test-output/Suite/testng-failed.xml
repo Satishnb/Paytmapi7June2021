@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="org.testing.TestScripts.TC1_MerchantListingAllRecords">
+      <class name="org.testing.TestScripts.TC4_openMerchantDetailViaChaining">
         <methods>
           <include name="getResult"/>
-          <include name="merchantlisting"/>
           <include name="tearDown"/>
           <include name="setup"/>
+          <include name="merchantDetailvialisting"/>
         </methods>
-      </class> <!-- org.testing.TestScripts.TC1_MerchantListingAllRecords -->
+      </class> <!-- org.testing.TestScripts.TC4_openMerchantDetailViaChaining -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

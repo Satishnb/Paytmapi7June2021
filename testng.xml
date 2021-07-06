@@ -3,13 +3,16 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-          <class name="org.testing.TestScripts.TC1_MerchantListingAllRecords"/>
-    
-      <class name="org.testing.TestScripts.TC2_LocationListingAllRecords"/>
+            <class name="org.testing.TestScripts.TC1_MerchantListingAllRecords"/>
+            <class name="org.testing.TestScripts.TC2_LocationListingAllRecords"/>
             <class name="org.testing.TestScripts.TC3_openMerchantDetail"/>
-      
-      <class name="org.testing.TestScripts.TC4_openMerchantDetailViaChaining"/>
-      <class name="org.testing.ExtentReporting.extentReportWithTestng"/>
+            <class name="org.testing.TestScripts.TC4_openMerchantDetailViaChaining"/>
+            <class name="org.testing.TestScripts.TC5_RewardsStorefront"/>
+            <class name="org.testing.TestScripts.TC6_OutletSearch"/>
+            <class name="org.testing.TestScripts.TC7_ChangeLocation"/>
+            <class name="org.testing.TestScripts.TC8_FilteredListing"/>
+            <class name="org.testing.ExtentReporting.extentReportWithTestng"/>
+            <class name="org.testing.utilities.ExcelDataProvider"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

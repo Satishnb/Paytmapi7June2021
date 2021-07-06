@@ -1,0 +1,2079 @@
+{
+    "categories": [
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b1cc9e77c000b571d1e.png",
+            "name": "R-FNB clp",
+            "permalink": "rewards-food-and-drink",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "rewards-food-and-drink"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b4ec9e77c000b571d1f.svg",
+            "name": "R spa clp",
+            "permalink": "rewards-spa-and-massage",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "rewards-spa-and-massage"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b99c9e77c000b571d20.svg",
+            "name": "R salon clp",
+            "permalink": "rewards-beauty-and-salon",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "rewards-beauty-and-salon"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b99c9e77c000b571d20.svg",
+            "name": "collection listing",
+            "permalink": "live-on-ordering",
+            "queryParams": {
+                "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}"
+            },
+            "redirectionUrl": [
+                "/undefined",
+                "collection",
+                "live-on-ordering"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b99c9e77c000b571d20.svg",
+            "name": "merchant page",
+            "queryParams": {
+                "merchantId": "1075334"
+            },
+            "redirectionUrl": [
+                "/d/undefined",
+                "merchant-name"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b1cc9e77c000b571d1e.png",
+            "name": "merchant listing",
+            "queryParams": {
+                "merchantId": "1075334,1075407"
+            },
+            "redirectionUrl": [
+                "/d/undefined",
+                "merchant-name"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b4ec9e77c000b571d1f.svg",
+            "name": "Spa",
+            "permalink": "food-and-drink",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "food-and-drink"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b99c9e77c000b571d20.svg",
+            "name": "Salon",
+            "permalink": "rewards-beauty-and-salon",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "rewards-beauty-and-salon"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b99c9e77c000b571d20.svg",
+            "name": "Salon1",
+            "permalink": "rewards-beauty-and-salon",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "rewards-beauty-and-salon"
+            ],
+            "sectionIds": null
+        },
+        {
+            "displayNameColor": "#CB5CE2",
+            "iconUrl": "https://images-stag.nbstatic.in/mystore/tr:w-/60596b99c9e77c000b571d20.svg",
+            "name": "Salon2",
+            "permalink": "rewards-beauty-and-salon",
+            "redirectionUrl": [
+                "/undefined",
+                "clp",
+                "rewards-beauty-and-salon"
+            ],
+            "sectionIds": null
+        }
+    ],
+    "isClp": false,
+    "lastRetrievedSectionId": null,
+    "localityData": {
+        "addressListPresent": false,
+        "isUserLoggedIn": false,
+        "LatLngPresent": false
+    },
+    "sections": [
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Popular",
+            "displayProperties": {
+                "caraouselType": "LARGE",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": false,
+                "isCircular": false,
+                "isFreeFlow": true
+            },
+            "entityId": "E22177",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": "https://images-stag.nbstatic.in/mystore/tr:w-50/5fcf13df590801000b9406fe.png",
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "cardClass": "card--small",
+                    "categoryId": null,
+                    "companyLogoUrl": "",
+                    "contextPayload": "",
+                    "desc": {
+                        "locality": "Ambience Mall, Vipul Plaza, DLF City Phase 5, Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": ""
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "merchantId": 1075408,
+                        "merchantName": null,
+                        "productListName": "store status tag highlight",
+                        "title": "null"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg",
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg",
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": null,
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Ambience Mall, Vipul Plaza, DLF City Phase 5, Gurgaon",
+                            "lat": 28.448883,
+                            "lng": 77.10041999
+                        }
+                    ],
+                    "primaryCategory": null,
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 20,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 20%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "merchant-name"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=73940",
+                    "secondaryCategory": null,
+                    "templateType": "MERCHANT",
+                    "userLocation": {
+                    },
+                    "vertical": [
+                        "LOCAL"
+                    ]
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "HIGHLIGHTED_MERCHANTS",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 1,
+            "templateId": "",
+            "visibleCount": 1
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Most Viewed",
+            "displayProperties": {
+                "caraouselType": "LARGE",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": false,
+                "isCircular": false,
+                "isFreeFlow": true
+            },
+            "entityId": "E22177",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": "https://images-stag.nbstatic.in/mystore/tr:w-50/5fcf1444590801000b940700.png",
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "cardClass": "card--small",
+                    "categoryId": null,
+                    "companyLogoUrl": "",
+                    "contextPayload": "",
+                    "desc": {
+                        "locality": "Sector 29  , Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": ""
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "merchantId": 1075555,
+                        "merchantName": null,
+                        "productListName": "store status tag highlight",
+                        "title": "null"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/5f88266fd06ffc000b8e408e.png",
+                            "https://images-stag.nbstatic.in/5f88266fd06ffc000b8e408e.png",
+                            "https://images-stag.nbstatic.in/5f88266fd06ffc000b8e408e.png"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": null,
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Sector 29  , Gurgaon",
+                            "lat": 28.466906,
+                            "lng": 77.066292
+                        }
+                    ],
+                    "primaryCategory": null,
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 5,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 5%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "merchant-name"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80242",
+                    "secondaryCategory": null,
+                    "templateType": "MERCHANT",
+                    "userLocation": {
+                    },
+                    "vertical": [
+                        "LOCAL"
+                    ]
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "HIGHLIGHTED_MERCHANTS",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 2,
+            "templateId": "",
+            "visibleCount": 1
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": "View all",
+            "displayName": "Followed Merchants Collection: India",
+            "displayProperties": {
+                "caraouselType": "SMALL",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": false,
+                "isFreeFlow": false
+            },
+            "entityId": "E22170",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "FAVOURITES",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "templateId": "T1010",
+            "visibleCount": 0
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Gurgaon only latest",
+            "displayProperties": {
+                "displayType": "GRID",
+                "isAutoScroll": false
+            },
+            "entityId": "E22168",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000106",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"gurgaon-only-latest\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "gurgaon only latest",
+                        "title": "Gurgaon only latest"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "3 Outlets"
+                            }
+                        ],
+                        "title": "Gurgaon only latest"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "gurgaon-only-latest"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": true,
+            "showOutletCount": true,
+            "sortOrder": 3,
+            "templateId": "",
+            "visibleCount": 1
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "How it works banner",
+            "displayProperties": {
+                "displayType": "STACKED",
+                "isAutoScroll": false
+            },
+            "entityId": "E22169",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": true,
+            "isSectionHorizontallyScrollable": false,
+            "items": [
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "how it works banner",
+                        "title": "20201201_restaurantsf_fnr_howitworks5_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc64895c9e77c000b5763e5.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "OCCASION_BANNER",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 4,
+            "templateId": "",
+            "visibleCount": 1
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Category Collection sections",
+            "displayProperties": {
+                "displayType": "GRID",
+                "isAutoScroll": false
+            },
+            "entityId": "E22171",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000025",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"tea-post\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "category collection sections",
+                        "title": "Only BNS collection"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fab6a00d60180000bde5b27.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "2 Outlets"
+                            }
+                        ],
+                        "title": "Only BNS collection"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "tea-post"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000082",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"tipsy-topsy-bakers\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "category collection sections",
+                        "title": "Only FNB collection"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fd0c2ab590801000b9408c1.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "3 Outlets"
+                            }
+                        ],
+                        "title": "Only FNB collection"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "tipsy-topsy-bakers"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000034",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"nukkadwala\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "category collection sections",
+                        "title": "Only Spa collections"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fab7973d60180000bde5b4c.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "3 Outlets"
+                            }
+                        ],
+                        "title": "Only Spa collections"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "nukkadwala"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000108",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"auto_1\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "category collection sections",
+                        "title": "All category merchant"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "8 Outlets"
+                            }
+                        ],
+                        "title": "All category merchant"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "auto_1"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": true,
+            "showOutletCount": true,
+            "sortOrder": 5,
+            "templateId": "",
+            "visibleCount": 4
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Rewards pay fnb collection 😃😄🎂🎁",
+            "displayProperties": {
+                "caraouselType": "MEDIUM",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": true,
+                "isFreeFlow": false
+            },
+            "entityId": "E22137",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000062",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "testing rewards pay fnb collection",
+                        "title": "Live on Ordering"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "8 Outlets"
+                            }
+                        ],
+                        "title": "Live on Ordering"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-on-ordering"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000002",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"subway\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "testing rewards pay fnb collection",
+                        "title": "Food discount 10%"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5f6da7fa4cedfd000b54b6f2.png"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "3 Outlets"
+                            }
+                        ],
+                        "title": "Food discount 10%"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "subway"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000105",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-in-gurgaon-only\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "testing rewards pay fnb collection",
+                        "title": "Live in Gurgaon snm"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "2 Outlets"
+                            }
+                        ],
+                        "title": "Live in Gurgaon snm"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-in-gurgaon-only"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000005",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"nazeer-foods\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "testing rewards pay fnb collection",
+                        "title": "Nazeer Foods"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5f6d81d84cedfd000b54b6e9.png"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "8 Outlets"
+                            }
+                        ],
+                        "title": "Nazeer Foods"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "nazeer-foods"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": true,
+            "showOutletCount": true,
+            "sortOrder": 6,
+            "templateId": "",
+            "visibleCount": 4
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": null,
+            "displayProperties": {
+                "caraouselType": "FULL_WIDTH",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": false
+            },
+            "entityId": "E22142",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": true,
+            "isSectionHorizontallyScrollable": true,
+            "items": [
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "how it works header banner",
+                        "title": "20201201_restaurantsf_fnr_howitworks3_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc620aec9e77c000b5762bb.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                },
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "how it works header banner",
+                        "title": "20201201_restaurantsf_fnr_howitworks4_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc620d1c9e77c000b5762bc.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "OCCASION_BANNER",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 7,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": "CITY",
+            "destinationName": null,
+            "displayName": "Buzzing hotspots",
+            "displayProperties": {
+                "caraouselType": "BIG",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": true,
+                "isFreeFlow": false
+            },
+            "entityId": "E22141",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "categoryId": null,
+                    "categoryPermalink": null,
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "trending localities",
+                        "title": "Suncity"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ef6f4a2dc0e82000bbffafa.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "nb-icon_distance",
+                                "text": "6.141884875644109 Kms"
+                            },
+                            {
+                                "iconUrl": "",
+                                "text": "2 Outlets"
+                            }
+                        ],
+                        "title": "Suncity"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "LOCATION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "location",
+                        "vipul-plaza-suncity-gurgaon"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "categoryId": null,
+                    "categoryPermalink": null,
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "trending localities",
+                        "title": "Ambience Mall"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/584e80d0dc0e82000d17f80c.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "nb-icon_distance",
+                                "text": "3.7541597586094095 Kms"
+                            },
+                            {
+                                "iconUrl": "",
+                                "text": "2 Outlets"
+                            }
+                        ],
+                        "title": "Ambience Mall"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "LOCATION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "location",
+                        "ambience-mall-ambience-island-gurgaon"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "categoryId": null,
+                    "categoryPermalink": null,
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "trending localities",
+                        "title": "Sector 29"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/582414a64cedfd000d3c8c64.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "nb-icon_distance",
+                                "text": "1.456789456652932 Kms"
+                            },
+                            {
+                                "iconUrl": "",
+                                "text": "1 Outlet"
+                            }
+                        ],
+                        "title": "Sector 29"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "LOCATION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "location",
+                        "leisure-valley-gurgaon"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "HOTSPOTS",
+            "showDisplayText": true,
+            "showOutletCount": null,
+            "sortOrder": 8,
+            "templateId": "T1060",
+            "visibleCount": 3
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": "live-on-ordering",
+            "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+            "coverage": "CITY",
+            "destinationName": "View all offers",
+            "displayName": "deals in collections",
+            "displayProperties": {
+                "caraouselType": "LARGE",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": true,
+                "isFreeFlow": false,
+                "sectionPermalink": "live-on-ordering"
+            },
+            "entityId": "E22139",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "cardClass": "card--small",
+                    "categoryId": "BNS",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "desc": {
+                        "locality": "Ambience Mall, Vipul Plaza, DLF City Phase 5, Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": "paytm bns warehouse"
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "dimension12": "Gurgaon",
+                        "merchantId": 1075408,
+                        "merchantName": "paytm bns warehouse",
+                        "productListName": "deals in collections",
+                        "title": "paytm bns warehouse - DLF City Phase 5"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg",
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9701a590801000b943948.jpg",
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": "1075408",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Ambience Mall, Vipul Plaza, DLF City Phase 5, Gurgaon",
+                            "lat": 28.448883,
+                            "lng": 77.10041999
+                        }
+                    ],
+                    "primaryCategory": "BNS",
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 20,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 20%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "paytm-bns-warehouse"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=73940",
+                    "secondaryCategory": null,
+                    "templateType": "REELCARD",
+                    "userLocation": {
+                    },
+                    "vertical": null
+                },
+                {
+                    "cardClass": "card--small",
+                    "categoryId": "FNB",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "desc": {
+                        "locality": "Ambience Mall, Sector 29  , Ambience Island, Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": "PI'ZZA@FNB"
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "dimension12": "Gurgaon",
+                        "merchantId": 1075553,
+                        "merchantName": "PI'ZZA@FNB",
+                        "productListName": "deals in collections",
+                        "title": "PI'ZZA@FNB - Ambience Island"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg",
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9701a590801000b943948.jpg",
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5ff9703e590801000b94394a.jpg"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": "1075553",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Ambience Mall, Sector 29  , Ambience Island, Gurgaon",
+                            "lat": 28.50361,
+                            "lng": 77.0972
+                        }
+                    ],
+                    "primaryCategory": "FNB",
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 10,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 10%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "pizza-fnb-gurgaon"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80240",
+                    "secondaryCategory": null,
+                    "templateType": "REELCARD",
+                    "userLocation": {
+                    },
+                    "vertical": null
+                },
+                {
+                    "cardClass": "card--small",
+                    "categoryId": "FNB",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "desc": {
+                        "locality": "Central Plaza, Vipul Plaza, Suncity, Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": "rewardspaymerchant1"
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "dimension12": "Gurgaon",
+                        "merchantId": 1075334,
+                        "merchantName": "rewardspaymerchant1",
+                        "productListName": "deals in collections",
+                        "title": "rewardspaymerchant1 - Suncity"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+                            "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+                            "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": "1075334",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Central Plaza, Vipul Plaza, Suncity, Gurgaon",
+                            "lat": 28.4349,
+                            "lng": 77.106194
+                        }
+                    ],
+                    "primaryCategory": "FNB",
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 20,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 20%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "rewardspaymerchant1-gurgaon"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=70478",
+                    "secondaryCategory": null,
+                    "templateType": "REELCARD",
+                    "userLocation": {
+                    },
+                    "vertical": null
+                },
+                {
+                    "cardClass": "card--small",
+                    "categoryId": "SNM",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "desc": {
+                        "locality": "Sector 54  , Block P, Sector 56, Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": "PAYTM WAREHOUSE SPA MERCHANT"
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "dimension12": "Gurgaon",
+                        "merchantId": 1075421,
+                        "merchantName": "PAYTM WAREHOUSE SPA MERCHANT",
+                        "productListName": "deals in collections",
+                        "title": "PAYTM WAREHOUSE SPA MERCHANT - Sector 56"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/5fc7b61b7b7dc6000b51aec8.png",
+                            "https://images-stag.nbstatic.in/5fc7b61b7b7dc6000b51aec8.png",
+                            "https://images-stag.nbstatic.in/5fc7b61b7b7dc6000b51aec8.png"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": "1075421",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Sector 54  , Block P, Sector 56, Gurgaon",
+                            "lat": 28.425875,
+                            "lng": 77.097618
+                        }
+                    ],
+                    "primaryCategory": "SNM",
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 20,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 20%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "paytm-warehouse-spa-merchant-gurgaon"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=74536",
+                    "secondaryCategory": null,
+                    "templateType": "REELCARD",
+                    "userLocation": {
+                    },
+                    "vertical": null
+                },
+                {
+                    "cardClass": "card--small",
+                    "categoryId": "FNB",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "desc": {
+                        "locality": "Sector 29  , Gurgaon",
+                        "mrp": null,
+                        "msp": null,
+                        "rating": null,
+                        "subtitle": "",
+                        "title": "test man"
+                    },
+                    "displayType": true,
+                    "distanceFromCor": null,
+                    "gaData": {
+                        "dimension12": "Gurgaon",
+                        "merchantId": 1075551,
+                        "merchantName": "test man",
+                        "productListName": "deals in collections",
+                        "title": "test man - Sector 29"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+                            "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png",
+                            "https://images-stag.nbstatic.in/5f88012fd06ffc000b8e407c.png"
+                        ],
+                        "subtitles": null,
+                        "title": null
+                    },
+                    "id": "1075551",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "MERCHANT",
+                    "locations": [
+                        {
+                            "distance": null,
+                            "info": "Sector 29  , Gurgaon",
+                            "lat": 28.466906,
+                            "lng": 77.066292
+                        }
+                    ],
+                    "primaryCategory": "FNB",
+                    "promoDetails": [
+                        {
+                            "discountPercentage": 20,
+                            "redemptionType": "discount",
+                            "text": "Paytm Discount of 20%"
+                        }
+                    ],
+                    "redirectionUrl": [
+                        "/d/undefined",
+                        "test-man-gurgaon"
+                    ],
+                    "reservationNumbers": [
+                    ],
+                    "rewardsPayDeeplink": "https://staging.paytmstores.com/paybill?partner_id=80238",
+                    "secondaryCategory": null,
+                    "templateType": "REELCARD",
+                    "userLocation": {
+                    },
+                    "vertical": null
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "requestParamMap": {
+                "categoryId": null,
+                "collectionIds": "CL0000000062",
+                "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                "primaryLocId": "10902",
+                "sortOrder": "1",
+                "vertical": "LOCAL",
+                "workflowType": "DEFAULT,CHECKOUT_DETAILS_REQUIRED,CHECKOUT_DETAILS_BOOKING_DATE_REQUIRED"
+            },
+            "sectionType": "DEALS_IN_COLLECTION",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 9,
+            "templateId": "T1010",
+            "visibleCount": 5
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "RHRN Grid false",
+            "displayProperties": {
+                "displayType": "GRID",
+                "isAutoScroll": false
+            },
+            "entityId": "E22134",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000062",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn grid false",
+                        "title": "Live on Ordering"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Live on Ordering"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-on-ordering"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000092",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"biryani-by-kilo\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn grid false",
+                        "title": "Rewards SNM Collection"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fd0c2ab590801000b9408c1.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Rewards SNM Collection"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "biryani-by-kilo"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": false,
+            "showOutletCount": null,
+            "sortOrder": 10,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "RHRN Grid display name true",
+            "displayProperties": {
+                "displayType": "GRID",
+                "isAutoScroll": false
+            },
+            "entityId": "E22154",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000062",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn grid display name true",
+                        "title": "Live on Ordering New"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Live on Ordering New"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-on-ordering"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000092",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"biryani-by-kilo\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn grid display name true",
+                        "title": "Rewards SNM Collection new"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fd0c2ab590801000b9408c1.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Rewards SNM Collection new"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "biryani-by-kilo"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": true,
+            "showOutletCount": false,
+            "sortOrder": 11,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "RHRN Carousel medium true",
+            "displayProperties": {
+                "caraouselType": "MEDIUM",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": true,
+                "isFreeFlow": false
+            },
+            "entityId": "E22157",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000062",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn carousel medium true",
+                        "title": "Live on Ordering"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Live on Ordering"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-on-ordering"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000092",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"biryani-by-kilo\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn carousel medium true",
+                        "title": "Rewards SNM Collection new"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fd0c2ab590801000b9408c1.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Rewards SNM Collection new"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "biryani-by-kilo"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": true,
+            "showOutletCount": false,
+            "sortOrder": 12,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "RHRN Carousel medium false",
+            "displayProperties": {
+                "caraouselType": "MEDIUM",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": true,
+                "isFreeFlow": false
+            },
+            "entityId": "E22158",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": null,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000062",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn carousel medium false",
+                        "title": "Live on Ordering"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Live on Ordering"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-on-ordering"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000092",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"biryani-by-kilo\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn carousel medium false",
+                        "title": "Rewards SNM Collection"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fd0c2ab590801000b9408c1.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Rewards SNM Collection"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "biryani-by-kilo"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": false,
+            "showOutletCount": null,
+            "sortOrder": 13,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "RHRN Carousel Big  false",
+            "displayProperties": {
+                "displayType": "GRID",
+                "isAutoScroll": false
+            },
+            "entityId": "E22160",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": null,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000062",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"live-on-ordering\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn carousel big  false",
+                        "title": "Live on Ordering"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Live on Ordering"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "live-on-ordering"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                },
+                {
+                    "collectionId": "CL0000000092",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"biryani-by-kilo\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "rhrn carousel big  false",
+                        "title": "Rewards SNM Collection"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fd0c2ab590801000b9408c1.jpg"
+                        ],
+                        "subtitles": [
+                        ],
+                        "title": "Rewards SNM Collection"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "biryani-by-kilo"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": false,
+            "showOutletCount": null,
+            "sortOrder": 14,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Stacked banners",
+            "displayProperties": {
+                "displayType": "STACKED",
+                "isAutoScroll": false
+            },
+            "entityId": "E22161",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": true,
+            "isSectionHorizontallyScrollable": false,
+            "items": [
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "stacked",
+                        "title": "20201201_restaurantsf_fnr_howitworks3_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc620aec9e77c000b5762bb.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                },
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "stacked",
+                        "title": "20201201_restaurantsf_fnr_howitworks4_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc620d1c9e77c000b5762bc.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                },
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "stacked",
+                        "title": "20201201_restaurantsf_fnr_howitworks5_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc64895c9e77c000b5763e5.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "OCCASION_BANNER",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 15,
+            "templateId": "",
+            "visibleCount": 3
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "Carousel  - Cards style",
+            "displayProperties": {
+                "caraouselType": "CARD",
+                "displayType": "CAROUSEL",
+                "isAutoScroll": true,
+                "isCircular": true,
+                "isFreeFlow": false
+            },
+            "entityId": "E22162",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": true,
+            "isSectionHorizontallyScrollable": false,
+            "items": [
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "occasion banner carousel card",
+                        "title": "20201201_restaurantsf_fnr_howitworks4_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc620d1c9e77c000b5762bc.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                },
+                {
+                    "companyLogoUrl": "",
+                    "displayType": true,
+                    "gaData": {
+                        "name": "banner",
+                        "productListName": "occasion banner carousel card",
+                        "title": "20201201_restaurantsf_fnr_howitworks5_all_app"
+                    },
+                    "imgUrl": "https://images-stag.nbstatic.in/mystore/tr:w-700/5fc64895c9e77c000b5763e5.jpg",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "itemType": "INFORMATION",
+                    "redirectionUrl": null,
+                    "templateType": "ANNOUNCEMENT"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "OCCASION_BANNER",
+            "showDisplayText": null,
+            "showOutletCount": null,
+            "sortOrder": 16,
+            "templateId": "",
+            "visibleCount": 2
+        },
+        {
+            "categoryPermaLink": null,
+            "collectionPermaLink": null,
+            "contextPayload": null,
+            "coverage": null,
+            "destinationName": null,
+            "displayName": "AUTO_1",
+            "displayProperties": {
+                "displayType": "GRID",
+                "isAutoScroll": false
+            },
+            "entityId": "E22166",
+            "footerTextContent": {
+                "displayText": null,
+                "fullContentText": "View Less",
+                "limitedContentText": null
+            },
+            "headerImage": "",
+            "icon": null,
+            "includeRewardsPay": true,
+            "isAutoScroll": null,
+            "items": [
+                {
+                    "collectionId": "CL0000000108",
+                    "companyLogoUrl": "",
+                    "contextPayload": "{\"collectionPermalink\":\"auto_1\"}",
+                    "displayType": true,
+                    "gaData": {
+                        "productListName": "auto_1",
+                        "title": "AUTO_1"
+                    },
+                    "header": {
+                        "imageUrls": [
+                            "https://images-stag.nbstatic.in/mystore/tr:w-350/5fb64532d60180000bde68af.jpg"
+                        ],
+                        "subtitles": [
+                            {
+                                "iconUrl": "",
+                                "text": "8 Outlets"
+                            }
+                        ],
+                        "title": "AUTO_1"
+                    },
+                    "id": "10000000001",
+                    "isChainMerchant": false,
+                    "isHorizontallyScrollable": null,
+                    "isLocationContextRequired": null,
+                    "itemType": "COLLECTION",
+                    "redirectionUrl": [
+                        "/undefined",
+                        "collection",
+                        "auto_1"
+                    ],
+                    "templateType": "CARD",
+                    "vertical": "LOCAL"
+                }
+            ],
+            "listingPageParams": null,
+            "occasionPermaLink": null,
+            "sectionType": "RHRN",
+            "showDisplayText": true,
+            "showOutletCount": true,
+            "sortOrder": 17,
+            "templateId": "",
+            "visibleCount": 1
+        }
+    ],
+    "storeFrontId": 30,
+    "userGroup": "ALL",
+    "version": 435
+}

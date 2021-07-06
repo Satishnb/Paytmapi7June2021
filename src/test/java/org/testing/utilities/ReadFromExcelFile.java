@@ -13,9 +13,17 @@ public class ReadFromExcelFile {
 	public static XSSFWorkbook workbook;
 	public static XSSFSheet sheet;
 	
-	public ReadFromExcelFile(String excelPath, int sheetNum) throws IOException {
+	public ReadFromExcelFile(String excelPath, String sheetName) throws IOException {
 		workbook= new XSSFWorkbook(excelPath);
-		 sheet= workbook.getSheetAt(sheetNum);	
+		 sheet= workbook.getSheet(sheetName);	
+	}
+	
+	public XSSFWorkbook currentWorkbook() {
+		return workbook;	
+	}
+	
+    public XSSFSheet currentsheet() {
+    	return sheet;	
 	}
 	
 	public static int rowCount() throws IOException {
@@ -30,30 +38,19 @@ public class ReadFromExcelFile {
 		 return totalColumns;
 	}
 	
-	
-	public static String getCellDataString(int rowNum, int colNum) throws IOException {
-		 
-		 String sCellData =sheet.getRow(rowNum).getCell(colNum).getStringCellValue();
-		 return sCellData;
-	}
-	
-	public static double getCellDataNumber(int rowNum, int colNum) throws IOException {
-		 
-		 double nCellData=0;
-		try {
-			nCellData = sheet.getRow(rowNum).getCell(colNum).getNumericCellValue();
-		} catch (Exception e) {
-			System.out.println(e);
-			// TODO Auto-generated catch block
-		}
-		 return nCellData;
-	}
-	
+	// read any type of data as string or int or any type of data type
 	public static Object getCellData(int rowNum, int colNum) throws IOException {
 		 
 		 Object nCellData=0;
 		try {
 			nCellData = sheet.getRow(rowNum).getCell(colNum).getNumericCellValue();
+			return nCellData;
+		} catch (Exception e) {
+			//System.out.println(e);
+		}
+		
+		try {
+			nCellData = sheet.getRow(rowNum).getCell(colNum).getBooleanCellValue();
 			return nCellData;
 		} catch (Exception e) {
 			//System.out.println(e);
@@ -66,6 +63,31 @@ public class ReadFromExcelFile {
 		}
 		 return nCellData;
 	}
+	
+	
+	
+	
+	
+	
+	//Read only string value from excel
+	/*public static String getCellDataString(int rowNum, int colNum) throws IOException {
+		 
+		 String sCellData =sheet.getRow(rowNum).getCell(colNum).getStringCellValue();
+		 return sCellData;
+	}
+	
+	// read numaric value from excel
+	public static double getCellDataNumber(int rowNum, int colNum) throws IOException {
+		 
+		 double nCellData=0;
+		try {
+			nCellData = sheet.getRow(rowNum).getCell(colNum).getNumericCellValue();
+		} catch (Exception e) {
+			System.out.println(e);
+			// TODO Auto-generated catch block
+		}
+		 return nCellData;
+	}*/
 	
 	
 

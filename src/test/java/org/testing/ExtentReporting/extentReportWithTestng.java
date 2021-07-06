@@ -1,6 +1,7 @@
 package org.testing.ExtentReporting;
 
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterMethod;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterMethod;
@@ -37,6 +38,7 @@ public class extentReportWithTestng {
 		if(result.getStatus()==ITestResult.FAILURE) {
 			test.fail(MarkupHelper.createLabel(result.getName()+"Test Case Failed", ExtentColor.RED));
 			test.fail(result.getThrowable());
+	
 		}
 		else if(result.getStatus()==ITestResult.SUCCESS) {
 			test.pass(MarkupHelper.createLabel(result.getName()+"Test Case Passes", ExtentColor.GREEN));
@@ -53,6 +55,7 @@ public class extentReportWithTestng {
 	}
 	
 	
+	@AfterMethod
 	@AfterSuite
 	public void tearDown() {
 		extent.flush();

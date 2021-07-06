@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.TC2_LocationListingAllRecords">
+        <methods>
+          <include name="loctionlisting"/>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC2_LocationListingAllRecords -->
+      <class name="org.testing.TestScripts.TC3_openMerchantDetail">
+        <methods>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="merchantDetail"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC3_openMerchantDetail -->
+      <class name="org.testing.TestScripts.TC8_FilteredListing">
+        <methods>
+          <include name="defaultFilteredData"/>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC8_FilteredListing -->
+      <class name="org.testing.TestScripts.TC5_RewardsStorefront">
+        <methods>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="RewardSF"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC5_RewardsStorefront -->
+      <class name="org.testing.TestScripts.TC4_openMerchantDetailViaChaining">
+        <methods>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="merchantDetailvialisting"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC4_openMerchantDetailViaChaining -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
